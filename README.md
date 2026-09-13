@@ -1,58 +1,59 @@
 <div align="center">
 
-# 👋 Hi, I'm Pavan Kalyan
+<a href="https://github.com/spavan6248">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=PAVAN%20KALYAN&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=62&descSize=18" width="100%" alt="Pavan Kalyan profile header"/>
+</a>
 
-### Senior Software Engineer • Java Backend • Cloud & Microservices
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%7C+AWS;Exploring+AI+%2B+Developer+Automation+%F0%9F%A4%96;Turning+ideas+into+production-ready+software+%E2%9A%A1" alt="Typing animation" />
+</a>
 
 <p>
   <a href="https://github.com/spavan6248"><img src="https://img.shields.io/badge/GitHub-spavan6248-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=spavan6248&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/pavan-kalyan-shanigarapu-2715731a1/"><img src="https://img.shields.io/badge/LinkedIn-Pavan%20Kalyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=spavan6248&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-> Building reliable backend systems, cloud-native services and practical products with Java, Spring Boot and AWS.
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Senior Software Engineer** focused on building reliable, maintainable and scalable backend systems. I enjoy solving real-world engineering problems with **Java, Spring Boot, Microservices and AWS**, while continuously exploring AI-powered development and automation.
+
+- ☕ Java & Spring Boot backend engineering
+- 🧩 Microservices, REST APIs & distributed systems
+- ☁️ AWS, Docker & CI/CD
+- 🍃 MongoDB, MySQL & Amazon DocumentDB
+- 🧪 JUnit, Mockito & automated testing
+- 🤖 AI + developer productivity & automation
+- 📈 Building products around finance, analytics and technology
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mongodb,mysql,git,github,maven,jenkins,postman&perline=11" alt="Technology stack"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 💼 **Senior Software Engineer** focused on backend engineering and scalable services
-- ☕ **Java & Spring Boot** enthusiast with a strong microservices mindset
-- ☁️ Building with **AWS, Docker, REST APIs, MongoDB and SQL**
-- 🧪 Passionate about clean code, automated testing and engineering quality
-- 🤖 Exploring **AI + software engineering** and practical automation
-- 📈 Interested in building products around **finance, analytics and technology**
-- 🌱 Continuously learning cloud architecture, distributed systems and modern Java
-
----
-
-## 🧰 Engineering Stack
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Backend | Cloud & DevOps | Data | Engineering |
-|---|---|---|---|
-| ☕ Java | ☁️ AWS | 🍃 MongoDB | 🧪 JUnit / Mockito |
-| 🌱 Spring Boot | 🐳 Docker | 🗄️ MySQL | 📦 Maven |
-| 🔗 REST APIs | ⚙️ Jenkins | 🔍 DocumentDB | 🔀 Git / GitHub |
-| 🧩 Microservices | 📡 SQS / SNS | 🧮 SQL | 📋 Swagger / OpenAPI |
+<a href="https://github.com/spavan6248">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=spavan6248&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/spavan6248">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spavan6248&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+</a>
 
-</div>
-
----
-
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=spavan6248&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spavan6248&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
-
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=spavan6248&hide_border=true&theme=transparent" alt="GitHub streak" />
 
@@ -60,7 +61,7 @@
 
 ---
 
-## 🔥 Featured Work
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -68,18 +69,18 @@
 
 ### 💹 Fintra
 
-A finance-focused product ecosystem for tracking and understanding financial data.
+Finance-focused product ecosystem for tracking, analyzing and understanding financial data.
 
-**Focus:** Backend APIs • Financial data • Analytics
+**Java • Spring Boot • REST • Analytics**
 
 </td>
 <td width="50%">
 
 ### 🚗 CityLink
 
-A car booking and mobility platform designed around drivers, passengers and vehicle availability.
+Car booking and mobility platform connecting drivers, passengers and vehicle availability.
 
-**Focus:** Spring Boot • MongoDB • REST • Cloud
+**Spring Boot • MongoDB • REST • AWS**
 
 </td>
 </tr>
@@ -90,16 +91,16 @@ A car booking and mobility platform designed around drivers, passengers and vehi
 
 Full-stack commerce application with dedicated backend and frontend services.
 
-**Focus:** Java • Spring Boot • REST • Database
+**Java • Spring Boot • REST • Database**
 
 </td>
 <td width="50%">
 
 ### ☁️ Cloud & Automation
 
-Hands-on work with AWS services, automation, testing and deployment-oriented engineering.
+Engineering work across AWS, automation, testing and deployment workflows.
 
-**Focus:** AWS • Docker • CI/CD • Testing
+**AWS • Docker • CI/CD • Testing**
 
 </td>
 </tr>
@@ -107,25 +108,36 @@ Hands-on work with AWS services, automation, testing and deployment-oriented eng
 
 ---
 
-## 📈 Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Pavan's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spavan6248&hide_border=true&area=true&radius=8&theme=github-compact)](https://github.com/spavan6248)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spavan6248&hide_border=true&area=true&radius=10&theme=github-compact" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🐍 Contribution Journey
 
-```text
-Java 21+ / Modern Java       ███████████████████░  95%
-Spring Boot & Microservices   ██████████████████░░  90%
-AWS & Cloud Architecture      ████████████████░░░░  80%
-Distributed Systems           ███████████████░░░░░  75%
-AI + Developer Automation     ████████████░░░░░░░░  60%
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/spavan6248/spavan6248/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+## 🎯 What I'm Focused On
+
+| Area | Focus |
+|---|---|
+| ☕ Modern Java | Clean code, concurrency & performance |
+| 🌱 Spring Boot | APIs, security & microservices |
+| ☁️ AWS | Cloud-native architecture & services |
+| 🔄 Distributed Systems | Messaging, resilience & scalability |
+| 🤖 AI Engineering | AI-assisted development & automation |
+| 📊 Product Engineering | Finance, analytics & practical products |
 
 ---
 
@@ -133,7 +145,7 @@ AI + Developer Automation     ████████████░░░░�
 
 > **Build simple. Design for scale. Automate what repeats. Test what matters. Keep learning.**
 
-I enjoy turning business requirements into maintainable services, improving existing systems, and learning the engineering decisions behind reliable production software.
+I believe good software is not just about making something work — it is about making it **understandable, reliable, observable and ready to evolve**.
 
 ---
 
@@ -141,11 +153,17 @@ I enjoy turning business requirements into maintainable services, improving exis
 
 <div align="center">
 
-If you're interested in **Java, Spring Boot, Microservices, AWS, AI engineering or product development**, let's connect.
+<a href="https://www.linkedin.com/in/pavan-kalyan-shanigarapu-2715731a1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/spavan6248">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/spavan6248">GitHub</a> • <a href="https://www.linkedin.com/">LinkedIn</a>
+<img src="https://komarev.com/ghpvc/?username=spavan6248&style=flat-square&color=2563EB&label=Thanks+for+visiting" alt="Profile views"/>
 
 </div>
 
@@ -156,3 +174,7 @@ If you're interested in **Java, Spring Boot, Microservices, AWS, AI engineering 
 ### ⚡ Keep building. Keep learning. Keep shipping.
 
 </div>
+
+<a href="https://github.com/spavan6248">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563EB,100:0F172A" width="100%" alt="Profile footer"/>
+</a>
