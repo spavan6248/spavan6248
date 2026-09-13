@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%7C+AWS;Exploring+AI+%2B+Developer+Automation+%F0%9F%A4%96;Turning+ideas+into+production-ready+software+%E2%9A%A1" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%7C+AWS;Engineering+reliable+APIs+and+cloud-native+services;Exploring+AI+%2B+developer+automation+%F0%9F%A4%96" alt="Typing animation" />
 </a>
 
 <p>
@@ -20,25 +20,114 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Software Engineer** focused on building reliable, maintainable and scalable backend systems. I enjoy solving real-world engineering problems with **Java, Spring Boot, Microservices and AWS**, while continuously exploring AI-powered development and automation.
+I'm a **Senior Software Engineer** focused on backend engineering, cloud-native systems and practical product development. My core stack is **Java, Spring Boot, Microservices, REST APIs and AWS**, with a strong interest in automation, distributed systems and AI-assisted engineering.
 
-- ☕ Java & Spring Boot backend engineering
-- 🧩 Microservices, REST APIs & distributed systems
-- ☁️ AWS, Docker & CI/CD
-- 🍃 MongoDB, MySQL & Amazon DocumentDB
-- 🧪 JUnit, Mockito & automated testing
-- 🤖 AI + developer productivity & automation
-- 📈 Building products around finance, analytics and technology
+- ☕ Backend engineering with Java & Spring Boot
+- 🧩 REST APIs, Microservices & distributed systems
+- ☁️ AWS, Docker & cloud-native development
+- 🗄️ MongoDB, MySQL & Amazon DocumentDB
+- 🧪 JUnit, Mockito & automation
+- 🤖 AI-assisted development & developer productivity
+- 📊 Building products around finance, analytics and mobility
+
+> **Engineering mindset:** build clearly, design for scale, automate what repeats, test what matters.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Engineering Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mongodb,mysql,git,github,maven,jenkins,postman&perline=11" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mongodb,mysql,git,github,maven,jenkins,postman&perline=11" alt="Engineering technology stack"/>
 
 </div>
+
+### Core Technologies
+
+| Domain | Technologies |
+|---|---|
+| **Backend** | Java, Spring Boot, Spring MVC, Hibernate, JPA |
+| **Architecture** | Microservices, REST APIs, distributed systems |
+| **Cloud** | AWS EC2, ECS, S3, Lambda, SQS, SNS, CloudWatch, Secrets Manager |
+| **Data** | MongoDB, MySQL, Amazon DocumentDB |
+| **Testing** | JUnit, Mockito, API & automation testing |
+| **DevOps** | Docker, Jenkins, Maven, Git, Bitbucket |
+| **API & Tools** | Swagger / OpenAPI, Postman, IntelliJ IDEA |
+
+---
+
+## 🚀 Featured Engineering Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 💹 Fintra
+
+Finance-focused product ecosystem for tracking, analyzing and understanding financial data.
+
+**Java • Spring Boot • REST • Analytics**
+
+_Private product workspace_
+
+</td>
+<td width="50%">
+
+### 🚗 CityLink
+
+Mobility and car-booking platform connecting drivers, passengers and vehicle availability.
+
+**Spring Boot • MongoDB • REST • AWS**
+
+_Private product workspace_
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+
+Full-stack commerce platform with dedicated backend and frontend services.
+
+**Java • Spring Boot • REST • Database**
+
+<a href="https://github.com/spavan6248/ecommerce-backend">Backend</a> · <a href="https://github.com/spavan6248/ecommerce-frontend">Frontend</a>
+
+</td>
+<td width="50%">
+
+### 🧩 Task Assignment
+
+Backend-focused project demonstrating application development and engineering fundamentals.
+
+<a href="https://github.com/spavan6248/taskAssignment">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ☁️ Cloud Engineering
+
+<div align="center">
+
+`EC2` · `ECS` · `S3` · `Lambda` · `SQS` · `SNS` · `CloudWatch` · `Secrets Manager` · `DocumentDB` · `Route 53`
+
+</div>
+
+I focus on designing backend services that are **observable, resilient and ready to scale**, with messaging and managed AWS services where they provide a clear engineering advantage.
+
+---
+
+## 🤖 AI & Developer Automation
+
+I'm actively exploring how AI can improve software engineering workflows — from **automated testing and code assistance to developer productivity and intelligent backend services**.
+
+**Current direction:**
+
+`Java + Spring Boot` → `AWS` → `AI / LLMs` → `Developer Automation`
 
 ---
 
@@ -55,56 +144,9 @@ I'm a **Senior Software Engineer** focused on building reliable, maintainable an
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=spavan6248&hide_border=true&theme=transparent" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=spavan6248&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 💹 Fintra
-
-Finance-focused product ecosystem for tracking, analyzing and understanding financial data.
-
-**Java • Spring Boot • REST • Analytics**
-
-</td>
-<td width="50%">
-
-### 🚗 CityLink
-
-Car booking and mobility platform connecting drivers, passengers and vehicle availability.
-
-**Spring Boot • MongoDB • REST • AWS**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Platform
-
-Full-stack commerce application with dedicated backend and frontend services.
-
-**Java • Spring Boot • REST • Database**
-
-</td>
-<td width="50%">
-
-### ☁️ Cloud & Automation
-
-Engineering work across AWS, automation, testing and deployment workflows.
-
-**AWS • Docker • CI/CD • Testing**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -115,8 +157,6 @@ Engineering work across AWS, automation, testing and deployment workflows.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=spavan6248&hide_border=true&area=true&radius=10&theme=github-compact" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
-
----
 
 ## 🐍 Contribution Journey
 
@@ -132,24 +172,36 @@ Engineering work across AWS, automation, testing and deployment workflows.
 
 ---
 
-## 🎯 What I'm Focused On
+## 🎯 Currently Focused On
 
 | Area | Focus |
 |---|---|
-| ☕ Modern Java | Clean code, concurrency & performance |
-| 🌱 Spring Boot | APIs, security & microservices |
-| ☁️ AWS | Cloud-native architecture & services |
-| 🔄 Distributed Systems | Messaging, resilience & scalability |
-| 🤖 AI Engineering | AI-assisted development & automation |
-| 📊 Product Engineering | Finance, analytics & practical products |
+| ☕ **Modern Java** | Clean code, concurrency, performance & Java 21+ concepts |
+| 🌱 **Spring Boot** | APIs, security, microservices & production patterns |
+| ☁️ **AWS** | Cloud architecture, messaging & managed services |
+| 🔄 **Distributed Systems** | Resilience, asynchronous processing & scalability |
+| 🤖 **AI Engineering** | AI-assisted development, automation & LLM integration |
+| 📊 **Product Engineering** | Finance, analytics, mobility & practical products |
 
 ---
 
-## 🧠 Engineering Philosophy
+## 📚 Learning & Growth
+
+<div align="center">
+
+**Backend** → **Cloud** → **Distributed Systems** → **AI Engineering**
+
+</div>
+
+I believe continuous learning should translate into **better architecture, cleaner code and useful products** — not just more technologies on a résumé.
+
+---
+
+## 🏗️ Engineering Philosophy
 
 > **Build simple. Design for scale. Automate what repeats. Test what matters. Keep learning.**
 
-I believe good software is not just about making something work — it is about making it **understandable, reliable, observable and ready to evolve**.
+Good software should be **understandable, reliable, observable and ready to evolve**.
 
 ---
 
@@ -175,7 +227,7 @@ I believe good software is not just about making something work — it is about 
 
 <div align="center">
 
-### ⚡ Keep building. Keep learning. Keep shipping.
+### ⚡ Build. Learn. Automate. Ship.
 
 </div>
 
